@@ -5,8 +5,7 @@ Features:
 
 Responsive design using HTML, CSS, and JavaScript
 
-Sectioned layout for About, Projects, Skills, and Contact
-
+Sectioned layout 
 Easy to customize and deploy
 
 Feel free to explore, fork, and contribute!
